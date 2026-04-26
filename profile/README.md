@@ -16,7 +16,7 @@ In Brazilian football, a "canelada" is a clumsy kick. In our code, it's that one
 Our kitchen (repositories) is always full of interesting experiments:
 - **Sweet Scripts:** Small tools that make life easier.
 - **Experimental Rolls:** New frameworks we are testing until they break.
-- **Friendship-Powered APIs:** Robust backends built on trust and Go.
+- **Friendship-Powered APIs:** Robust backends built on trust.
 
 ---
 
